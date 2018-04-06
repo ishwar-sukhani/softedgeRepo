@@ -1,4 +1,4 @@
-package softedge;
+package home.assignment1;
 
 public class AreaOfRectangle {
 	
